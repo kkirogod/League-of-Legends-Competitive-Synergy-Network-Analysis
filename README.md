@@ -33,7 +33,7 @@ We identified the most influential champions based on four key metrics:
 *   **Force Multipliers (Eigenvector):** **Lulu** stands out here. While she has fewer total connections than tanks, her synergies are linked to the most successful champions in the meta, maximizing the team's power ceiling.
 *   **Pillars of Consistency:** **Maokai** and **Ezreal** maintained top-5 positions across all metrics, representing low-risk, high-reward "must-master" champions.
 
-> ****
+![](centrality_eigenvector.png)
 > *Figure 2: Multi-dimensional centrality visualization. Node size: Betweenness; Color: Eigenvector.*
 
 ---
