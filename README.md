@@ -21,6 +21,7 @@ The network consists of **129 nodes** (champions) and **3,777 edges** (winning s
 **Tactical Insight:** A density of 0.457 indicates that nearly 46% of all possible synergies resulted in professional victories. The low diameter (3) proves that the competitive meta was highly interconnected, with most champions being only one or two "links" away from each other.
 
 > ****
+> ![texto alternativo](red_3.png)
 > *Figure 1: Global network visualization using Force Atlas 2. Node size represents Degree.*
 
 ---
@@ -66,5 +67,4 @@ Optimized the structure into 2 macro-ecosystems:
 *   **Louvain & Leiden Algorithms:** Community detection.
 
 ---
-**Author:** Miguel Quiroga Campos  
-**Course:** Social Media Mining 2025/2026
+**Author:** Miguel Quiroga Campos
