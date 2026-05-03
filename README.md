@@ -47,6 +47,7 @@ Divided the network into 3 balanced tactical pillars:
 *   **Community 1 (Protection):** Maokai, Janna, Lulu. Focused on "Protect the ADC" and hard-engage.
 *   **Community 2 (Mobility):** Gragas, Elise, Ezreal. Defined by high rotation potential and map pressure.
 
+![](lovaina_1.0.png)
 > ****
 
 ### Leiden Method (Res: 0.8 | Q: 0.205)
@@ -54,6 +55,7 @@ Optimized the structure into 2 macro-ecosystems:
 *   **Cluster 0 (Generalist Meta):** The core competitive standard (87 nodes). Champions that win regardless of a specific niche strategy.
 *   **Cluster 1 (Strategic Utility):** Tactical response group (42 nodes). Focused on long-range utility and objective control to counter the raw power of Cluster 0.
 
+![](leiden_0.8.png)
 > ****
 
 **Conclusion:** The low overall modularity confirms that the professional meta-game was fluid. Champions were not isolated in silos; rather, the meta revolved around a "power core" balanced by a "strategic utility block."
